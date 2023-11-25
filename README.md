@@ -5,7 +5,7 @@ Used to test out brute force hash
 - dead
 - b0000
 - decaf
-- deadbee
+- eeee
 
 # Windows
 I don't think this works on windows, something to do with the multithreading. Works on *nix / OSX
